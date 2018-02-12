@@ -1,0 +1,23 @@
+#! /bin/sh
+
+sxhkd &
+
+bspc monitor -d I II III IV V
+
+bspc config border_width		0
+bspc config window_gap			2
+
+bspc config split_ratio          	0.5
+bspc config borderless_monocle   	true
+bspc config gapless_monocle      	true
+
+bspc config focus_follows_pointer	true
+
+# send to 'vim' desktop and follow focus
+bspc rule -a neovim			desktop='vim' follow=on
+
+#do not tile screenkey
+bspc rule -a Screenkey manage=off
+
+# start bar
+./.config/mkbar.sh
