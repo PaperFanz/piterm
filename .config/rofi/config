@@ -1,12 +1,12 @@
 rofi.modi:                           window,run,ssh
-rofi.width:                          40
-rofi.lines:                          5
-rofi.font:                           hack 16
-rofi.color-normal:                   #fdf6e3,#002b36,#eee8d5,#586e75,#eee8d5
-rofi.color-urgent:                   #fdf6e3,#dc322f,#eee8d5,#dc322f,#fdf6e3
+rofi.width:                          50
+rofi.lines:                          7
+rofi.font:                           hack 14
+rofi.color-normal:                   #050505,009bef,#2e3f8f,#00aa5e,#272727
+rofi.color-urgent:                   #464646,#dc322f,#eee8d5,#dc322f,#fdf6e3
 rofi.color-active:                   #fdf6e3,#268bd2,#eee8d5,#268bd2,#fdf6e3
 rofi.color-window:                   #fdf6e3,#002b36
-rofi.bw:                             1
+rofi.bw:                             0
 rofi.terminal:                       urxvt
 rofi.ssh-client:                     ssh
 rofi.sidebar-mode:                   true
