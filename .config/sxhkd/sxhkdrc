@@ -6,9 +6,18 @@
 alt + Return
 	urxvt
 
+# i3lock
+
+alt + shift + l
+	./.config/lock_bg.sh
+
 # set background
 alt + shift + b
 	./.config/set_bg.sh
+
+# screenshot
+alt + shift + s
+	./.config/screenshot.sh
 
 # program launcher
 alt + space

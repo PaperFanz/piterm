@@ -1,10 +1,21 @@
 rename bw_mountains.jpg
 rename config_copy
 copy
-paste
 
 rename panel_example
 rename panel
 open_with 
-delete
 rename config
+cut
+paste
+mkdir makefile_tut
+rename test.jpg
+rename ranger.jpg
+rename neovim.jpg
+neofetch.jpg
+rename neofetch.jpg
+delete
+rename top.jpg
+rename ssh_goaccess.jpg
+rename ssh_neofetch.jpg
+rename git_dotfiles.jpg
