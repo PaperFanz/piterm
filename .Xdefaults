@@ -37,4 +37,4 @@ URxvt.font:			xft:Hack:pixelsize=18
 URxvt.letterSpace:		-1
 URxvt*inheritPixmap:		true
 URxvt*transparent:		true
-URxvt*shading:			15	15	15	15	15	15	15	15	15	15	15	15	15	15	15	
+URxvt*shading:			8	
