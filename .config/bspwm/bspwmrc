@@ -21,3 +21,6 @@ bspc rule -a Screenkey manage=off
 
 # start bar
 ./.config/mkbar.sh
+
+# set background
+./.config/set_bg.sh

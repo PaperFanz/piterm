@@ -1,4 +1,4 @@
 #! /bin/bash
 
 # sets date from google.com
-date -s "$(curl -s --head http://google.com | grep ^Date: | sed 's/Date: //g') -0600"
+date -s "$(curl -s --head http://google.com | grep ^Date: | sed 's/Date: //g')"
