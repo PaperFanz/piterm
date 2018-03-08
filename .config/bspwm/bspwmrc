@@ -20,7 +20,10 @@ bspc rule -a neovim			desktop='vim' follow=on
 bspc rule -a Screenkey manage=off
 
 # start bar
-./.config/mkbar.sh
+./.config/mkbar.sh &
 
 # set background
-./.config/set_bg.sh
+./.config/set_bg.sh &
+
+# set time
+sudo ./.config/gtime.sh
