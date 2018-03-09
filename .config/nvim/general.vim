@@ -17,5 +17,8 @@ syntax enable
 set number
 set relativenumber
 set mouse=a
-set background=dark
 
+" for Papercolor color scheme
+set t_Co=256
+set background=dark
+"colorscheme PaperColor

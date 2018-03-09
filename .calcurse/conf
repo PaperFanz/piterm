@@ -1,6 +1,6 @@
 appearance.calendarview=monthly
 appearance.compactpanels=yes
-appearance.defaultpanel=appointments
+appearance.defaultpanel=calendar
 appearance.layout=1
 appearance.notifybar=yes
 appearance.sidebarwidth=0

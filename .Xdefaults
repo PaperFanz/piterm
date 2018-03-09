@@ -33,7 +33,7 @@
 
 URxvt.internalBorder:		15
 URxvt.scrollBar:		false
-URxvt.font:			xft:Hack:pixelsize=18
+URxvt.font:			xft:Hack:pixelsize=19
 URxvt.letterSpace:		-1
 URxvt*inheritPixmap:		true
 URxvt*transparent:		true

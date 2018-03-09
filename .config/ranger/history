@@ -18,5 +18,7 @@ rename top.jpg
 rename ssh_goaccess.jpg
 rename ssh_neofetch.jpg
 rename git_dotfiles.jpg
-delete
 wq
+rename vector_cal.c
+rename vector_add.c
+delete
