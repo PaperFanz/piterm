@@ -1,6 +1,6 @@
 call plug#begin('~/.config/nvim/plugs')
 
-Plug 'NLKNguyen/papercolor-theme'
+Plug 'Valloric/YouCompleteMe'
 
 call plug#end()
 

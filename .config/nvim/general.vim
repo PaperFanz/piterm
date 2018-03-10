@@ -22,3 +22,5 @@ set mouse=a
 set t_Co=256
 set background=dark
 "colorscheme PaperColor
+
+let g:ycm_server_python_interpreter = 'python2'

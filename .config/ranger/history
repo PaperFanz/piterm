@@ -19,10 +19,12 @@ rename git_dotfiles.jpg
 wq
 rename vector_cal.c
 rename vector_add.c
-delete
 rename vector_cal
 paster
 vector_add.h
 rename .bashrc.old
+rename config.h
 copy
 paste
+rename config.def.h
+delete
