@@ -1,13 +1,11 @@
 rename bw_mountains.jpg
 rename config_copy
-copy
 
 rename panel_example
 rename panel
 open_with 
 rename config
 cut
-paste
 mkdir makefile_tut
 rename test.jpg
 rename ranger.jpg
@@ -22,3 +20,9 @@ wq
 rename vector_cal.c
 rename vector_add.c
 delete
+rename vector_cal
+paster
+vector_add.h
+rename .bashrc.old
+copy
+paste
